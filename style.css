@@ -1,10 +1,4 @@
-@media (max-width: 768px) {
- #sidebar {
- display: none;
- .activity-gridh{
-    grid-template-columns: 1fr; /* عنصر واحد في كل سطر */
-  }
- } }
+
  
 body {
             font-family: Arial, sans-serif;
